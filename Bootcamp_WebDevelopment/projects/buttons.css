@@ -1,0 +1,73 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+table tr td {
+  border: 2px solid black;
+  width: 38.33vh;
+  height: 30%;
+  text-align: center;
+  font-size: 36px;
+}
+
+.table {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.header {
+  height: 97vh;
+}
+
+.color-pick {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.withdraw_form {
+  text-align: center;
+}
+
+.playarea {
+  margin-bottom: 15px;
+}
+
+.row div button{
+  width: inherit;
+  height: 100px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.purple {
+  background-color: purple;
+}

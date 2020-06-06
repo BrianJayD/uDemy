@@ -1,0 +1,36 @@
+img {
+  width: 30%;
+  margin: 1.66%;
+}
+
+p {
+  font-family: Rubik;
+  margin-left: 1.66%;
+  font-size: 23px;
+  font-weight: 800;
+  text-transform: uppercase;
+  border-bottom: 2px solid #f1f1f1;
+  width: 30%;
+  padding: 20px;
+}
+
+.image {
+  height: 300px;
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+  background-size: contain;
+  background-position: center center;
+}
+
+div:nth-child(3n) {
+  background-image: url("https://instagram.fybz2-2.fna.fbcdn.net/vp/2f5fd0e86210c9d7c4c14486268fdbc7/5DCE0BDE/t51.2885-15/e35/25008571_136200060403618_5935876873039904768_n.jpg?_nc_ht=instagram.fybz2-2.fna.fbcdn.net");
+}
+
+div:nth-child(3n+1) {
+  background-image: url("https://instagram.fybz2-2.fna.fbcdn.net/vp/52f7a4a32da920d0d7731891a6b319a9/5DD3216E/t51.2885-15/e35/50163159_1180030272170076_2348873901943884144_n.jpg?_nc_ht=instagram.fybz2-2.fna.fbcdn.net");
+}
+
+div:nth-child(3n+2) {
+  background-image: url("https://instagram.fybz2-2.fna.fbcdn.net/vp/5e39402a44f54848eba575f6485d4ba7/5DE44977/t51.2885-15/e35/14063528_146457462465268_235266669_n.jpg?_nc_ht=instagram.fybz2-2.fna.fbcdn.net");
+}

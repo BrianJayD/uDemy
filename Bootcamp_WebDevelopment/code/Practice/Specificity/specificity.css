@@ -1,0 +1,41 @@
+/* Inheritance */
+body {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+ul {
+  color: blue;
+}
+
+.highlight {
+  color: green;
+}
+
+#special {
+  color: pink;
+}
+
+/* Specificity
+type < class/pseudo-class/attribute < id
+
+TYPE:
+li {}
+
+ul li {}
+
+CLASS/PSEUDO-CLASS/ATTRIBUTE:
+.class {}
+
+a:hover {}
+
+input:checked {}
+
+input[type="text"] {}
+
+ID:
+#id {}
+*/
